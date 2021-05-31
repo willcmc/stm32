@@ -1,2 +1,2 @@
-# stm32
+# STM32
 Stuff related to STM32
